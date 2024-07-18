@@ -1,0 +1,3 @@
+Дата и время вызова функции: 2024-07-18 22:41:46.609872, имя функции: flat_generator, аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}, возвращаемое значние: <generator object test_3.<locals>.flat_generator at 0x10fc77920>
+Дата и время вызова функции: 2024-07-18 22:41:46.610261, имя функции: flat_generator, аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}, возвращаемое значние: <generator object test_3.<locals>.flat_generator at 0x10fc77920>
+Дата и время вызова функции: 2024-07-18 22:41:46.610396, имя функции: flat_generator, аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}, возвращаемое значние: <generator object test_3.<locals>.flat_generator at 0x10fc77920>
